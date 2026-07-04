@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 
 ## Hi there, this is R7 / Mayo Nezu 👋
 
-Passionate about learning, building projects, and growing as a developer.
-
-🌱 I’m currently learning web hacking, cryptography - security, and game project.
-
 <hr>
 
 ### Skills
